@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "63875122239",
+    "firebase_url": "https://firenotesapp-4d450.firebaseio.com",
+    "project_id": "firenotesapp-4d450",
+    "storage_bucket": "firenotesapp-4d450.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63875122239:android:98d491a4598d09bae7e48a",
+        "android_client_info": {
+          "package_name": "id.ac.polinema.firenotesapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "63875122239-mgc295btvt4lfe89d98a4s8ikbmhojkm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.ac.polinema.firenotesapp",
+            "certificate_hash": "e4172b0fb15e4cd4e0b39cef8669e1c07daea459"
+          }
+        },
+        {
+          "client_id": "63875122239-l6nfc2tnnc7ean556dimjpjmvben0chg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBr--_5GOK9XF8ps2AL7hYXxdhc23Q5FEM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "63875122239-l6nfc2tnnc7ean556dimjpjmvben0chg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
